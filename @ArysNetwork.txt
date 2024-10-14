@@ -1,40 +1,436 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2087?path=%2FASz1r85Pm6jO80oi%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFA101.mYvPn-39I.pAGEs.Dev&fp=randomized&type=ws&sni=61BFa101.MyVPn-39i.pAges.dev#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_1%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:2096?path=%2FkFJIel29K8m5Trcu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFa101.mYVPn-39i.pAGEs.dev&fp=randomized&type=ws&sni=61bFA101.myVpN-39i.PagEs.DEV#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_2%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:2053?path=%2FVvgSc62tfemhpFtA%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61Bfa101.MYvpn-39I.PAgES.dEV&fp=randomized&type=ws&sni=61bfa101.MyvPn-39i.PAGES.dEv#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_3%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@61bfa101.myvpn-39i.pages.dev:2087?path=%2FhDiPi4nde3WqDynb%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFa101.mYvPN-39I.PaGEs.dEv&fp=randomized&type=ws&sni=61BFa101.MYvpn-39I.PAGes.DeV#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_4%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@61bfa101.myvpn-39i.pages.dev:8443?path=%2FMqluSUcq7Ac64jD2%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61BFA101.myvPN-39I.PAgES.Dev&fp=randomized&type=ws&sni=61bfa101.mYVPn-39i.pAGEs.DeV#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_5%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2F6LkEpKTvT3nb6aZq%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61BFa101.MYVpn-39i.PagES.dEv&fp=randomized&type=ws&sni=61BFA101.mYVPn-39I.PAgES.DEv#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_6%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:8443?path=%2FcRMbNxRioB55H8Z4%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61Bfa101.myVPN-39I.PaGes.DeV&fp=randomized&type=ws&sni=61bFa101.MYVPN-39I.Pages.DeV#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_7%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.232.154:8443?path=%2FreCxJjcd8I650xGr%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bfa101.MyVPn-39i.Pages.dEv&fp=randomized&type=ws&sni=61Bfa101.MyVpN-39I.PAgES.DEv#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_8%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.232.154:2096?path=%2FaKqsQWMOblTBAbCR%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFA101.mYvPn-39I.paGes.deV&fp=randomized&type=ws&sni=61BfA101.myVpn-39i.PaGes.DeV#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_9%EF%B8%8F%E2%83%A3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FBbOyvMV4fhFSX30E%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFa101.MYVPn-39i.pAGes.Dev&fp=randomized&type=ws&sni=61Bfa101.myvPn-39I.PageS.dEV#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5_%F0%9F%94%9F
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2087?path=%2FmVyOkOlJPBSa0uDs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bfA101.myvpn-39i.PaGes.deV&fp=randomized&type=ws&sni=61bFA101.myvpN-39I.pAGes.DeV#%40ArysNetwork+%F0%9F%8C%90%F0%9F%94%A5
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:2096?path=%2FTRk20HxjTdclhYCN%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bfA101.MYVpN-39I.PAgeS.Dev&fp=randomized&type=ws&sni=61bfA101.MYVpn-39i.pagEs.DEV#%F0%9F%92%A2%40ArysNetwork%F0%9F%92%A2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.232.154:443?path=%2Fe7aG86lRu4b9GNHw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bfa101.mYVPn-39i.pAgES.Dev&fp=randomized&type=ws&sni=61bFA101.MyvPN-39I.Pages.dEV#%F0%9F%92%A2%40ArysNetwork%F0%9F%92%A2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:8443?path=%2FpVzxGH1Eu7nbOUBr%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61BFA101.MyVPN-39i.PaGes.dEV&fp=randomized&type=ws&sni=61bfa101.myvpN-39I.pAgES.deV#%F0%9F%92%A2%40ArysNetwork%F0%9F%92%A2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:2096?path=%2FNcTX39rqx9E4RXNu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFa101.myVpN-39I.PAGeS.dev&fp=randomized&type=ws&sni=61bfA101.myvPn-39i.PaGES.DEV#%F0%9F%92%A2%40ArysNetwork%F0%9F%92%A2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=%2FUqme28HpRIBtkhOW%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61BfA101.myvpN-39i.paGes.dEv&fp=randomized&type=ws&sni=61bfa101.myVpn-39I.PAGes.DeV#%23%D8%A8%D8%B1%D8%A7%DB%8C_%D8%AD%D9%85%D8%A7%DB%8C%D8%AA_%D8%AC%D9%88%DB%8C%D9%86_%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85_%D8%A8%D8%A7%D8%B4%E2%9D%A4_Arys
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.232.154:2053?path=%2F2U2TkiHlBkFhYqFx%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFa101.myvPn-39i.PaGes.Dev&fp=randomized&type=ws&sni=61Bfa101.mYVPn-39i.pAGeS.dev#%F0%9F%92%A5+%40ArysNetwork+%F0%9F%92%A5+%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%B9%D8%A7%D9%84%DB%8C
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FomSFq2quyxiG5mWx%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61BfA101.myVpN-39I.PAgEs.deV&fp=randomized&type=ws&sni=61BfA101.MYvpN-39I.PAgES.DeV#%F0%9F%8E%AC%40ArysMovie%F0%9F%8E%AC
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:2096?path=%2FNJekn0iwQ9ve8WsT%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bFA101.myvPN-39I.paGES.Dev&fp=randomized&type=ws&sni=61BFA101.MYvpN-39I.paGEs.Dev#%F0%9F%8E%AC%40ArysMovie%F0%9F%8E%AC+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%81%DB%8C%D9%84%D9%85+%D9%88+%D8%B3%D8%B1%DB%8C%D8%A7%D9%84
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2FKhKP0QuXB0MwhEyH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=61bfA101.MYVPn-39i.PaGes.deV&fp=randomized&type=ws&sni=61Bfa101.myVpn-39I.pAgEs.dev#%F0%9F%8E%AC%40ArysMovie%F0%9F%8E%AC
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@myvpn-39i.pages.dev:2087?path=%2FOW2KyTCgBBCgCHzH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=Myvpn-39i.pAGEs.deV#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2087?path=%2F5WJOKKIo5dQXOqdC%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MYVPn-39I.PAgEs.DEv#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:8443?path=%2FY9auOJ2WHqfoykHm%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MYvpn-39I.PagES.deV#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2Fmy7MPvuW7sBWNcg4%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=myVPn-39I.paGes.DEV#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+4
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FOAWAWUqidgeYanZd%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MyvPn-39i.PAGes.Dev#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+5
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@myvpn-39i.pages.dev:443?path=%2FSOQ4V8k6GHgcMXmS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MYVPn-39I.pAGES.dev#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+6
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=%2FpSx7ygUDrpHIYyM7%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MyVPn-39I.PaGes.dEv#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+7
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:8443?path=%2FzM76T6Yo7HIDFf1u%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=mYvpn-39I.pages.dev#%F0%9F%92%BB+%40ArysNetwork+-+Server+New+8
-trojan://bpb-trojan@104.18.232.154:2087?path=%2FtrgWO8fKjsbuc5X5ex%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MYVpN-39i.PAGes.dev#%F0%9F%8E%AC%40ArysMovie%F0%9F%8E%AC%0A%F0%9F%93%BD%40ArysMovies%F0%9F%93%BD
-trojan://bpb-trojan@188.114.97.3:2053?path=%2FtrarbhE0rTPXYETbor%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=myvPN-39I.PagES.dEv#Iran%27s+attacks+on+Israel+%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:8443?path=%2Fy6QeWOiW0SrXTSkU%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=Myvpn-39I.PaGEs.deV#Iran%27s+attacks+on+Israel+%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B1
-trojan://bpb-trojan@188.114.96.3:2096?path=%2FtrgixOUrghBZ0xqHmF%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MyvPn-39i.PaGes.deV#Iran%27s+attacks+on+Israel+%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.2:443?path=%2FTC1vf4Jl9KTz1TgK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MYvPN-39I.PAgeS.dEv#Iran+-+Israel+%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=%2FK5Es27td2ejMAQrh%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MYvPN-39i.paGES.deV#Iran+-+Israel+%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FzFP3UFq0yMGNqyBU%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MyvPn-39i.PAgEs.DEV#Iran+-+Israel+%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@myvpn-39i.pages.dev:443?path=%2FCiksAy3DsW85WFWK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=myVPn-39I.pAGES.dev#Iran+-+Israel+%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.232.154:2087?path=%2F2nJRbCfbXvrXt66i%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MyVPn-39i.pagEs.dev#%D8%A8%D8%B2%D9%86+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7+%D8%AA%D8%A7+%D8%A8%D8%B1%D8%A7%D8%AA+%D9%88%D8%B5%D9%84+%D8%A8%D8%B4%D9%85+%F0%9F%98%81
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2F23rgrNjti6X37DPI%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=myvpN-39i.pAges.DEV#%D8%A8%D9%87+%D8%AE%D9%88%D8%AF%D9%85%D9%85%E2%80%8C%D9%BE%DB%8C%D8%A7%D9%85+%D8%A8%D8%AF%D9%87+%3A+Arysapp
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=%2FWwdNw4NzWfBNGTNm%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MYvPn-39i.pages.Dev#%D8%AF%D8%A7%D8%AE%D9%84+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
-trojan://bpb-trojan@188.114.97.3:2053?path=%2Ftr86E30m7jCbRAnaol%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=myvpn-39i.pages.dev&fp=randomized&type=ws&sni=MyVpn-39i.PAges.DEv#%D8%A2%DB%8C%D8%AF%DB%8C+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+ArysNetwork
+{
+  "remarks": "💦 28 - VLESS F - Clean IP : 2087",
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": [
+        "googleapis.com"
+      ]
+    },
+    "servers": [
+      "https://8.8.8.8/dns-query",
+      {
+        "address": "8.8.8.8",
+        "domains": [
+          "geosite:private",
+          "geosite:category-ir",
+          "geosite:cn",
+          "geosite:category-ru"
+        ],
+        "expectIPs": [
+          "geoip:private",
+          "geoip:ir",
+          "geoip:cn",
+          "geoip:ru"
+        ]
+      }
+    ],
+    "tag": "dns"
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true,
+        "routeOnly": true
+      },
+      "tag": "socks-in"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true,
+        "routeOnly": true
+      },
+      "tag": "http-in"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10853,
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "1.1.1.1",
+        "network": "tcp,udp",
+        "port": 53
+      },
+      "tag": "dns-in"
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.18.253.9",
+            "port": 2087,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "tcpNoDelay": true,
+          "dialerProxy": "fragment"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "3af265a3.arysnetwork.pages.dev",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+          },
+          "path": "/grPH9ieydGJohqd7?ed=2560"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "fingerprint": "randomized",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "serverName": "3af265A3.arysNeTwORk.pagEs.dEV"
+        }
+      },
+      "tag": "proxy"
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "fragment": {
+          "packets": "tlshello",
+          "length": "100-200",
+          "interval": "1-2"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveIdle": 100,
+          "tcpNoDelay": true
+        }
+      }
+    },
+    {
+      "protocol": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": [
+          "dns-in"
+        ],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "socks-in",
+          "http-in"
+        ],
+        "port": "53",
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "8.8.8.8"
+        ],
+        "port": "53",
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:private",
+          "geosite:category-ir",
+          "geosite:cn",
+          "geosite:category-ru"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "geoip:private",
+          "geoip:ir",
+          "geoip:cn",
+          "geoip:ru"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "network": "tcp",
+        "outboundTag": "proxy",
+        "type": "field"
+      }
+    ]
+  },
+  "stats": {}
+}
+{
+  "remarks": "💦 BPB F - WorkerLess ⭐",
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": [
+        "googleapis.com"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.249.249",
+        "104.16.248.249",
+        "104.16.133.229",
+        "104.16.132.229",
+        "104.17.147.22",
+        "104.17.148.22",
+        "108.162.193.103",
+        "172.64.33.103",
+        "173.245.59.103",
+        "173.245.58.128",
+        "108.162.192.128",
+        "172.64.32.128"
+      ]
+    },
+    "servers": [
+      "https://cloudflare-dns.com/dns-query"
+    ],
+    "tag": "dns"
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true,
+        "routeOnly": true
+      },
+      "tag": "socks-in"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true,
+        "routeOnly": true
+      },
+      "tag": "http-in"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10853,
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "1.1.1.1",
+        "network": "tcp,udp",
+        "port": 53
+      },
+      "tag": "dns-in"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "fragment": {
+          "packets": "tlshello",
+          "length": "100-200",
+          "interval": "1-2"
+        },
+        "domainStrategy": "UseIP"
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveIdle": 100,
+          "tcpNoDelay": true
+        }
+      }
+    },
+    {
+      "protocol": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "google.com",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "headers": {
+            "Host": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+          },
+          "path": "/"
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "randomized",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "serverName": "google.com"
+        }
+      },
+      "tag": "fake-outbound"
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": [
+          "dns-in"
+        ],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "socks-in",
+          "http-in"
+        ],
+        "port": "53",
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "network": "tcp,udp",
+        "outboundTag": "fragment",
+        "type": "field"
+      }
+    ]
+  },
+  "stats": {}
+}
