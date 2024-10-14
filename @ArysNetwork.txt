@@ -3354,4 +3354,9 @@
 
 
 ]
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@arys-network-worker.safaryaryan.workers.dev:2087?path=%2Fq3dmFenQoE4ICitJ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=arys-network-worker.safaryaryan.workers.dev&fp=randomized&type=ws&sni=ARYS-NEtWOrk-WoRkER.SafaRYARyAN.WOrkeRS.dev#%F0%9F%92%A6+29+-+VLESS+-+Domain+%3A+2087
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@arys-network-worker.safaryaryan.workers.dev:8080?path=%2Fuv4pItkVuH7NWjI2%3Fed%3D2560&security=none&encryption=none&host=arys-network-worker.safaryaryan.workers.dev&type=ws#%F0%9F%92%A6+50+-+VLESS+-+Domain+%3A+8080
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@arys-network-worker.safaryaryan.workers.dev:80?path=%2FMRazERF59rrkFLck%3Fed%3D2560&security=none&encryption=none&host=arys-network-worker.safaryaryan.workers.dev&type=ws#%F0%9F%92%A6+43+-+VLESS+-+Domain+%3A+80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:80?path=%2FxgQmlHykWxXZHGlf%3Fed%3D2560&security=none&encryption=none&host=arys-network-worker.safaryaryan.workers.dev&type=ws#%F0%9F%92%A6+46+-+VLESS+-+IPv4+%3A+80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:80?path=%2FeNeDbMo8LTwXqu9I%3Fed%3D2560&security=none&encryption=none&host=arys-network-worker.safaryaryan.workers.dev&type=ws#%F0%9F%92%A6+45+-+VLESS+-+IPv4+%3A+80
 
